@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as a research methodology AI skill."
+title: "Research Methodology AI Skill"
+type: software
+authors:
+  - family-names: "Agyapomah"
+    given-names: "Age Prince"
+repository-code: "https://github.com/aoprince-web/research-methodology-ai-skill"
+abstract: "A reusable AI skill and practical learning resource for planning, aligning, reviewing, and communicating qualitative, quantitative, and mixed methods research designs."
+keywords:
+  - research methodology
+  - qualitative research
+  - quantitative research
+  - mixed methods
+  - research design
+  - AI skill
