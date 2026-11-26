@@ -62,3 +62,12 @@ Issues and pull requests are welcome. Contributions should be original, clearly 
 ## Licence
 
 See [LICENSE](LICENSE) for the terms that apply to original material in this repository. Third-party works cited here remain subject to their own copyright and licensing terms.
+
+
+## Specialised skill: Qualitative Data Analysis and Thematic Synthesis
+
+The repository includes a dedicated skill at [skills/qualitative-thematic-analysis/SKILL.md](skills/qualitative-thematic-analysis/SKILL.md). It uses Braun and Clarke's reflexive thematic analysis as its primary framework and keeps codebook thematic analysis, framework analysis, and qualitative content analysis as distinct approaches.
+
+The module includes an approach-selection guide, a coding and analysis workbook, a reflexive thematic analysis practice guide, and evaluation scenarios. It supports analysis of researcher-supplied transcripts, focus groups, open-ended responses, field notes and documents. It requires authentic, traceable quotations, attention to contradictory accounts, transparent analytic decisions, and protection of participant confidentiality.
+
+Do not commit identifiable participant data, confidential transcripts, or private research materials to this public repository. Use the blank templates and synthetic examples for learning and testing.
