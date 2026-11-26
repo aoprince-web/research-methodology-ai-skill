@@ -209,6 +209,10 @@ Define constructs before selecting or writing items. Assess whether an existing 
 
 Clarify the intervention or exposure, comparison condition, outcome, allocation method, timing, adherence, potential confounders, safety monitoring, and ethical safeguards. Distinguish randomised experiments from quasi-experimental designs and observational studies.
 
+## Specialised qualitative thematic analysis module
+
+When the task involves detailed coding, theme development, subthemes, thematic matrices, cross-case comparison, or writing findings from qualitative data, also follow [the specialised qualitative thematic analysis skill](skills/qualitative-thematic-analysis/SKILL.md). That module uses Braun and Clarke's reflexive thematic analysis as its primary framework and distinguishes codebook thematic analysis, framework analysis, and qualitative content analysis. Keep the selected approach consistent with the study design and the researcher's approved protocol.
+
 ## Data analysis planning
 
 Analysis should be selected before data collection where possible, while allowing justified refinement as the study develops. Explain the relationship between the research question, data form, analytic steps, and final claim.
