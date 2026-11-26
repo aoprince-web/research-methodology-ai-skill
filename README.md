@@ -71,3 +71,8 @@ The repository includes a dedicated skill at [skills/qualitative-thematic-analys
 The module includes an approach-selection guide, a coding and analysis workbook, a reflexive thematic analysis practice guide, and evaluation scenarios. It supports analysis of researcher-supplied transcripts, focus groups, open-ended responses, field notes and documents. It requires authentic, traceable quotations, attention to contradictory accounts, transparent analytic decisions, and protection of participant confidentiality.
 
 Do not commit identifiable participant data, confidential transcripts, or private research materials to this public repository. Use the blank templates and synthetic examples for learning and testing.
+
+
+## Research-question-led transcript analysis
+
+The specialised qualitative analysis module includes a practical protocol and reusable [transcript analysis template](templates/qualitative-transcript-theme-analysis.md). It guides researchers from research-question-led transcript summaries through evidence selection, concise initial coding, theme development and a three-column thematic table with authentic supporting excerpts. The module includes [evaluation scenarios](tests/qualitative-thematic-analysis-scenarios.md) covering quotation integrity, theme quality, traceability, contradictory accounts and confidentiality. Requested code/theme word limits and theme counts are treated as project-specific presentation preferences, not universal methodological rules.
