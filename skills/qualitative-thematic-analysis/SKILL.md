@@ -312,3 +312,80 @@ Foundational sources to verify and consult as relevant include:
 - Kiger, M. E., & Varpio, L. (2020). Thematic analysis of qualitative data: AMEE Guide No. 131. *Medical Teacher, 42*(8), 846–854.
 
 Check exact publication details before citing in a submitted academic work.
+## Research-question-led transcript summarisation and thematic table protocol
+
+Use this protocol when the researcher requests a structured analysis of interview or focus-group transcripts. It operationalises summary, evidence selection, initial coding, theme development and tabular presentation. It does not replace the methodological requirements of the selected analytic approach.
+
+### A. Establish the analysis frame
+
+Identify the exact research question(s) and transcripts to be analysed. If a study has several questions, analyse each separately before developing an integrated synthesis. Do not combine distinct questions unless requested. Use the question as an analytic focus, not as a filter that removes unexpected but relevant material. State dataset coverage and limitations.
+
+### B. Summarise each transcript against the research question
+
+Read the transcript in full where available. Produce a concise, evidence-led summary that:
+- directly addresses the research question;
+- captures relevant experiences, views, explanations and examples;
+- retains context, qualifications, uncertainty and contradictions;
+- distinguishes participant statements from analyst interpretation;
+- does not import information from other participants or external literature as if it came from this participant.
+
+For multiple transcripts, prepare case-level summaries before cross-case synthesis. Do not let dominant accounts erase less common experiences. Identify whether a point is specific to one participant or supported across accounts. Do not claim prevalence without a defensible counting procedure and denominator.
+
+### C. Select evidence excerpts
+
+Select the shortest excerpt that preserves the meaning needed for analysis, retaining enough surrounding context to avoid misrepresentation. Record participant/transcript ID, exact excerpt, research question and source location where available. Use page, line, paragraph or timestamp only if supplied or verifiable. Never reconstruct a quotation from a summary or put a paraphrase inside quotation marks. Mark omissions transparently with ellipses and clarifications with square brackets.
+
+### D. Generate initial codes
+
+For this user's requested output, each initial code should normally contain **two to five words**. This is a naming and presentation constraint, not a reason to oversimplify complex data. A code should be specific, plain, grounded in the excerpt and relevant to the research question. It may be descriptive or interpretive, consistent with the selected approach. Avoid vague labels, repeating interview questions, over-fragmenting connected accounts and creating near-duplicate codes. Allow multiple codes for a passage where it genuinely carries distinct meanings. Retain source references for every occurrence and revise codes as understanding develops.
+
+### E. Develop candidate themes
+
+Develop themes from coded material by identifying patterns of shared meaning relevant to the research question. Aim for **five to six themes**, each named in **two to five words**, when the dataset supports them. This is a target, not a quota. If fewer themes are defensible, explain why rather than inventing or fragmenting themes. If more patterns exist, explain any grouping or subtheme structure.
+
+Each theme must have a coherent central organising idea, be distinct from other themes, contribute to answering the question and be supported by relevant evidence. Attend to contradictions, exceptional and minority accounts. A theme is an analytic pattern, not simply an interview topic or frequently mentioned word. Provide a brief definition or analytic explanation outside the short theme label.
+
+### F. Produce the requested three-column table
+
+When the researcher asks for a three-column table, use exactly this structure:
+
+| Theme (2–5 words) | Summary of the finding | Supporting transcript excerpts |
+|---|---|---|
+| Concise theme name | Brief analytic summary explaining the pattern and its relevance to the research question. | Exact quotation(s), attributed to participant ID and verified source location where available. |
+
+The third column must contain authentic excerpts from the transcript, not newly written summaries. Attribute quotations clearly, for example (Participant 03, lines 42–45), only when those line numbers are available and verified. If no line numbers are supplied, use the participant ID alone. Where several participants support a theme, select a small range of quotations that illustrates the shared pattern and meaningful variation. Do not overload the table with every coded passage.
+
+If the researcher requests only three columns, do not silently add columns. Present codes in a separate table only when requested or when it is clearly useful, and explain the separation.
+
+### G. Maintain traceability
+
+The final table is a presentation layer, not the entire analytic process. Retain or provide a separate traceability table when requested:
+
+| Research question | Transcript ID | Exact excerpt | Initial code (2–5 words) | Candidate/final theme |
+|---|---|---|---|---|
+
+Every theme must be traceable to supporting excerpts and codes. Every excerpt must be traceable to the original transcript. Flag unverified links rather than filling gaps.
+
+### H. Report responsibly
+
+Introduce the table with a short statement naming the research question, analytic approach and dataset covered. After the table, explain briefly how the themes collectively answer the question and where accounts differ. Use proportionate language such as "one participant", "several participants" or "the supplied accounts" only when supported. Do not claim unanimity, majority views, prevalence, causal relationships or theme rankings unless the data and method justify them. Frequency alone does not establish analytic importance.
+
+### I. Quality checks
+
+Before delivery, verify that:
+1. The summary answers the stated research question.
+2. The whole supplied transcript was considered, not only convenient extracts.
+3. Every excerpt is verbatim and traceable.
+4. Codes and theme labels meet the requested two-to-five-word range where feasible.
+5. Five to six themes are presented only when supported by the data.
+6. Themes are analytic patterns with distinct central organising concepts.
+7. The summary column explains each theme rather than repeating its label.
+8. The evidence column contains authentic quotations with correct attribution.
+9. Divergent and minority accounts have not been erased.
+10. No participant details, quotations, counts or findings have been invented.
+11. Confidentiality and ethics requirements are respected.
+12. The output follows the requested table structure and academic reporting requirements.
+
+### J. Default output sequence
+
+Unless the researcher requests a different order, present: (1) research question and dataset note; (2) transcript summary aligned to the question; (3) initial coding table with excerpts, codes and source attribution; (4) final three-column thematic table; and (5) short synthesis and limitations. If the researcher asks only for the final three-column table, provide that table without forcing all intermediate outputs into the response.
